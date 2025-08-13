@@ -1,3 +1,4 @@
 .env
 /node_modules
-package-lock.json
+package-lock.jsongit remote add origin https://github.com/nazzalaariskyy/gemini-flash-api.git
+uploads/
